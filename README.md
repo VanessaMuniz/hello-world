@@ -1,1 +1,2 @@
-# hello-world exercicio 
+# hello-world 
+ primeiro exercicio
